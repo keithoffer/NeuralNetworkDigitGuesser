@@ -8,7 +8,7 @@ A small program that uses a pre-trained neural network to estimate (in real time
 Prerequisites
 -------------
 
-- python 3 (3.5 and 3.6 tested)
+- python 3.6+
 
 Python modules
 
